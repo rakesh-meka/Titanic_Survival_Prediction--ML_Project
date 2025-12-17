@@ -1,62 +1,74 @@
-<<<<<<< HEAD
-# 🚢 Titanic Survival Prediction
-
-This project predicts whether a passenger survived the Titanic disaster using machine learning.  
-The goal is to build a classification model based on passenger features such as age, sex, ticket class, fare, and family size.
-
----
+# 🚢 Titanic Survival Prediction – Machine Learning Project
 
 ## 📌 Project Overview
-The Titanic dataset is a classic beginner-friendly dataset used for data analysis and machine learning.  
-It contains demographic and travel information for passengers aboard the RMS Titanic.
 
-In this project, we:
-- Loaded and explored the dataset  
-- Handled missing values  
-- Performed feature engineering  
-- Converted categorical variables into numerical form  
-- Split the data into training and test sets  
-- Built a Logistic Regression model  
-- Evaluated model performance  
+This project predicts passenger survival on the Titanic using machine learning techniques.  
+It demonstrates an end-to-end data science workflow including data cleaning, exploratory data analysis, feature engineering, model training, and evaluation.
 
 ---
 
-## 📊 Dataset Features
-Key columns used in prediction:
-- `Pclass` — Ticket class (1st, 2nd, 3rd)
-- `Sex` — Male or Female  
-- `Age` — Passenger age  
-- `SibSp` — Number of siblings/spouses aboard  
-- `Parch` — Number of parents/children aboard  
-- `Fare` — Ticket cost  
-- `Embarked` — Port of embarkation (C, Q, S)
-- `Survived` — Target variable (0 = No, 1 = Yes)
+## 📊 Dataset Information
+
+The dataset contains demographic and travel details of passengers aboard the RMS Titanic.
+
+**Key Features:**
+- Pclass – Ticket class (1st, 2nd, 3rd)
+- Sex – Passenger gender
+- Age – Passenger age
+- SibSp – Number of siblings/spouses aboard
+- Parch – Number of parents/children aboard
+- Fare – Ticket price
+- Embarked – Port of embarkation
+- Survived – Target variable (0 = Not Survived, 1 = Survived)
 
 ---
 
-## 🧠 Machine Learning Model
-We used **Logistic Regression** because it is simple, interpretable, and performs well on binary classification tasks.
+## 🔍 Exploratory Data Analysis (EDA)
 
-### Steps:
-1. Preprocess data  
-2. Encode categorical variables  
-3. Scale numerical features  
-4. Train Logistic Regression  
-5. Evaluate using accuracy, confusion matrix, etc.
+- Female passengers had higher survival rates
+- First-class passengers survived more than lower classes
+- Younger passengers showed better survival chances
+- Small family sizes improved survival probability
+- Higher fares correlated positively with survival
+
+---
+
+## 🧠 Feature Engineering & Preprocessing
+
+- Handled missing values in Age and Embarked
+- Encoded categorical variables
+- Created family-based features
+- Scaled numerical features
+- Split data into training and testing sets
+
+---
+
+## 🤖 Model Building
+
+- Logistic Regression used for binary classification
+- Simple, interpretable, and effective for baseline modeling
+
+---
+
+## 📈 Results
+
+- Achieved reliable classification accuracy
+- Identified key factors influencing survival outcomes
 
 ---
 
 ## 🛠️ Technologies Used
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib / Seaborn  
-- Scikit-learn  
-- Jupyter Notebook  
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
 ---
 
-## By Rakesh Meka
-=======
-# Titanic_Survival_Prediction--ML_Project
->>>>>>> 2baafd02f376e69c31072666ad09f5b795438fec
+## 👤 Author
+
+**Rakesh Meka**
