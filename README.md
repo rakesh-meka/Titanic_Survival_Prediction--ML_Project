@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚢 Titanic Survival Prediction
 
 This project predicts whether a passenger survived the Titanic disaster using machine learning.  
@@ -56,3 +57,6 @@ We used **Logistic Regression** because it is simple, interpretable, and perform
 ---
 
 ## By Rakesh Meka
+=======
+# Titanic_Survival_Prediction--ML_Project
+>>>>>>> 2baafd02f376e69c31072666ad09f5b795438fec
