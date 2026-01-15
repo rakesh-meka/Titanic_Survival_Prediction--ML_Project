@@ -46,7 +46,7 @@ The dataset contains demographic and travel details of passengers aboard the RMS
 ## 🤖 Model Building
 
 - Logistic Regression used for binary classification
-- Simple, interpretable, and effective for baseline modeling
+- Simple, interpretable and effective for baseline modeling
 
 ---
 
