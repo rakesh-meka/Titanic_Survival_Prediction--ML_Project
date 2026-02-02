@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project predicts passenger survival on the Titanic using machine learning techniques.  
-It demonstrates an end-to-end data science workflow including data cleaning, exploratory data analysis, feature engineering, model training, and evaluation.
+It demonstrates an end-to-end data science workflow including data cleaning, exploratory data analysis, feature engineering, model trainin and evaluation.
 
 ---
 
