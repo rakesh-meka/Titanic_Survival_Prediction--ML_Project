@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction – Machine Learning Project
+# 🚢 Titanic Survival Prediction – ML Project
 
 ## 📌 Project Overview
 
