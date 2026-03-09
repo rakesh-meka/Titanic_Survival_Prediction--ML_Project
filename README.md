@@ -52,8 +52,8 @@ The dataset contains demographic and travel details of passengers aboard the RMS
 
 ## 📈 Results
 
-- Achieved reliable classification accuracy
-- Identified key factors influencing survival outcomes
+- Achieved reliable classification accuracy.
+- Identified key factors influencing survival outcomes.
 
 ---
 
